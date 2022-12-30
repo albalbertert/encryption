@@ -1,0 +1,1 @@
+## This is script to encrypt and decrypt files.
